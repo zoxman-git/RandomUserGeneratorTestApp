@@ -1,0 +1,6 @@
+@RandomUserGeneratorTestApp_HostAddress = http://localhost:5055
+
+GET {{RandomUserGeneratorTestApp_HostAddress}}/statistics/
+Accept: application/json
+
+###
