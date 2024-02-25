@@ -1,0 +1,562 @@
+[
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Teresa",
+      "last": "Warren"
+    },
+    "location": {
+      "street": {
+        "number": 1301,
+        "name": "College St"
+      },
+      "city": "Seymour",
+      "state": "Nebraska",
+      "country": "United States",
+      "postcode": 91736,
+      "coordinates": {
+        "latitude": "-73.4025",
+        "longitude": "89.1986"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "teresa.warren@example.com",
+    "login": {
+      "uuid": "ee4621d8-e17b-42c8-b22d-1a635cfbbd51",
+      "username": "ticklishbutterfly694",
+      "password": "body",
+      "salt": "hBUlWFUk",
+      "md5": "2be07cb9c64db9253936ed09c3d45098",
+      "sha1": "cc54f38cc5bf4e00b10ad836a5cb08c0c77beb40",
+      "sha256": "c0d71bc580396c3960bc97e3c0eaab8e49c6302d15b8f6ce943562428cf7b96c"
+    },
+    "dob": {
+      "date": "1968-12-02T00:37:31.819Z",
+      "age": 55
+    },
+    "registered": {
+      "date": "2006-06-26T01:37:55.238Z",
+      "age": 17
+    },
+    "phone": "(897) 783-1708",
+    "cell": "(281) 204-3025",
+    "id": {
+      "name": "SSN",
+      "value": "144-29-7349"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/32.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+    },
+    "nat": "US"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Lisa",
+      "last": "Snyder"
+    },
+    "location": {
+      "street": {
+        "number": 6108,
+        "name": "Rolling Green Rd"
+      },
+      "city": "Irvine",
+      "state": "Tennessee",
+      "country": "United States",
+      "postcode": 68908,
+      "coordinates": {
+        "latitude": "41.4025",
+        "longitude": "-166.7184"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "email": "lisa.snyder@example.com",
+    "login": {
+      "uuid": "d0d10075-1383-4774-ac67-fd99da69b7da",
+      "username": "organicelephant847",
+      "password": "doobie",
+      "salt": "4p0xxrD3",
+      "md5": "9c7c669e9de5dde8a004688b0683821c",
+      "sha1": "9c784f086fe216157993d1e160cd75441a34f4f7",
+      "sha256": "3116202d00b6af8ed8de6d63bb992e902b2cf31a30c17f111771f31efc7bd30a"
+    },
+    "dob": {
+      "date": "1954-01-11T19:29:23.248Z",
+      "age": 70
+    },
+    "registered": {
+      "date": "2010-12-25T08:51:52.074Z",
+      "age": 13
+    },
+    "phone": "(543) 413-8223",
+    "cell": "(921) 479-6162",
+    "id": {
+      "name": "SSN",
+      "value": "418-20-0301"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/77.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
+    },
+    "nat": "US"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Lori",
+      "last": "Bryant"
+    },
+    "location": {
+      "street": {
+        "number": 9056,
+        "name": "E North St"
+      },
+      "city": "Plano",
+      "state": "Alabama",
+      "country": "United States",
+      "postcode": 43919,
+      "coordinates": {
+        "latitude": "72.2407",
+        "longitude": "-91.8358"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "lori.bryant@example.com",
+    "login": {
+      "uuid": "f6547e49-4d26-4c76-a535-e345e324bf91",
+      "username": "happygoose383",
+      "password": "white",
+      "salt": "Wk6SxX4U",
+      "md5": "7e593ad422cea5ecd32d11bc9472739a",
+      "sha1": "8f88eb03050287fda85d10c9b814e3069cfd8f83",
+      "sha256": "015f00e5486fba8dd99c0f46394b964a0ad1a0393cd1b39b7aee37f87139be6d"
+    },
+    "dob": {
+      "date": "1993-02-14T05:21:52.541Z",
+      "age": 31
+    },
+    "registered": {
+      "date": "2008-05-31T21:07:20.134Z",
+      "age": 15
+    },
+    "phone": "(459) 794-7005",
+    "cell": "(536) 535-8436",
+    "id": {
+      "name": "SSN",
+      "value": "419-31-5238"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/36.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+    },
+    "nat": "US"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Ronald",
+      "last": "Williamson"
+    },
+    "location": {
+      "street": {
+        "number": 2331,
+        "name": "Robinson Rd"
+      },
+      "city": "Fargo",
+      "state": "West Virginia",
+      "country": "United States",
+      "postcode": 28570,
+      "coordinates": {
+        "latitude": "28.6374",
+        "longitude": "-73.6569"
+      },
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "ronald.williamson@example.com",
+    "login": {
+      "uuid": "71e41151-2cc9-41ce-a3a0-6c2eb6cecf65",
+      "username": "orangefrog285",
+      "password": "bonjour",
+      "salt": "cVGuqtFo",
+      "md5": "36be66cb9b49ebc4f9b3666bbd9e60f9",
+      "sha1": "d21a0cda0731df610df27d0b5205cc9caecbf73e",
+      "sha256": "299c2403d0b2a6fa1aa9ad1a4c1a8d088d23ccad3bb248814e80582970d5eeb4"
+    },
+    "dob": {
+      "date": "1967-12-30T06:17:34.013Z",
+      "age": 56
+    },
+    "registered": {
+      "date": "2014-02-11T06:35:02.834Z",
+      "age": 10
+    },
+    "phone": "(754) 554-7306",
+    "cell": "(705) 267-5075",
+    "id": {
+      "name": "SSN",
+      "value": "070-38-7789"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/55.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
+    },
+    "nat": "US"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Joel",
+      "last": "Morrison"
+    },
+    "location": {
+      "street": {
+        "number": 643,
+        "name": "Robinson Rd"
+      },
+      "city": "Fayetteville",
+      "state": "North Dakota",
+      "country": "United States",
+      "postcode": 87575,
+      "coordinates": {
+        "latitude": "-33.3240",
+        "longitude": "127.4557"
+      },
+      "timezone": {
+        "offset": "+7:00",
+        "description": "Bangkok, Hanoi, Jakarta"
+      }
+    },
+    "email": "joel.morrison@example.com",
+    "login": {
+      "uuid": "4659fae7-c118-465a-b48d-75a72f62945d",
+      "username": "redmeercat943",
+      "password": "smooth",
+      "salt": "E0rQGBpv",
+      "md5": "8880c9ad2ec50777fc7ca2002c4b0563",
+      "sha1": "8776cf4a1ecf8766d2bf70ec8af56f4e04c975d5",
+      "sha256": "929b6a756a6d80c1fba7aaa78e3482303a136b97d5733f90eac0e06e840aa2b1"
+    },
+    "dob": {
+      "date": "1983-06-29T03:25:19.606Z",
+      "age": 40
+    },
+    "registered": {
+      "date": "2013-07-05T08:23:44.688Z",
+      "age": 10
+    },
+    "phone": "(964) 829-1962",
+    "cell": "(402) 918-3509",
+    "id": {
+      "name": "SSN",
+      "value": "404-57-8960"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/65.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+    },
+    "nat": "US"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Ken",
+      "last": "Myers"
+    },
+    "location": {
+      "street": {
+        "number": 7075,
+        "name": "Wycliff Ave"
+      },
+      "city": "Syracuse",
+      "state": "Illinois",
+      "country": "United States",
+      "postcode": 24440,
+      "coordinates": {
+        "latitude": "6.2091",
+        "longitude": "-150.1343"
+      },
+      "timezone": {
+        "offset": "-8:00",
+        "description": "Pacific Time (US & Canada)"
+      }
+    },
+    "email": "ken.myers@example.com",
+    "login": {
+      "uuid": "df73b4f3-0c85-4458-b284-3698a97797c5",
+      "username": "lazyfish334",
+      "password": "angie",
+      "salt": "TJkyw7vP",
+      "md5": "b48b6e30d7737108cc626e4b00a0224d",
+      "sha1": "3b1d4565e622469580fd10495193b86d2cdd5d1a",
+      "sha256": "296ccf238362988c927283b73e7e35b19fa6d8ca07188873b0af66a310bc2ad4"
+    },
+    "dob": {
+      "date": "1985-03-04T14:51:47.409Z",
+      "age": 38
+    },
+    "registered": {
+      "date": "2018-04-17T06:19:18.924Z",
+      "age": 5
+    },
+    "phone": "(576) 912-3541",
+    "cell": "(948) 336-4380",
+    "id": {
+      "name": "SSN",
+      "value": "222-30-2456"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/89.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+    },
+    "nat": "US"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Dustin",
+      "last": "King"
+    },
+    "location": {
+      "street": {
+        "number": 4996,
+        "name": "Lakeview St"
+      },
+      "city": "Winston–Salem",
+      "state": "Georgia",
+      "country": "United States",
+      "postcode": 37444,
+      "coordinates": {
+        "latitude": "-84.5462",
+        "longitude": "58.7218"
+      },
+      "timezone": {
+        "offset": "-12:00",
+        "description": "Eniwetok, Kwajalein"
+      }
+    },
+    "email": "dustin.king@example.com",
+    "login": {
+      "uuid": "a090ac90-c90c-416d-8bde-d489d1b4ad7f",
+      "username": "heavymeercat144",
+      "password": "81fukkc",
+      "salt": "x9DCXRUC",
+      "md5": "e0bb22f9ca9b740c1d0d23043cdf364a",
+      "sha1": "53997b0e0423582eaed5950f2cba178930cc53cd",
+      "sha256": "dc534dbe49ad1f42343f76451b5cb958d2383549a26cc4cad57d309f255bcf74"
+    },
+    "dob": {
+      "date": "1967-08-24T00:01:47.255Z",
+      "age": 56
+    },
+    "registered": {
+      "date": "2015-09-30T03:27:59.042Z",
+      "age": 8
+    },
+    "phone": "(953) 437-3176",
+    "cell": "(716) 685-3859",
+    "id": {
+      "name": "SSN",
+      "value": "224-28-1857"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/62.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+    },
+    "nat": "US"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Christy",
+      "last": "Mills"
+    },
+    "location": {
+      "street": {
+        "number": 6671,
+        "name": "Fincher Rd"
+      },
+      "city": "Chattanooga",
+      "state": "Iowa",
+      "country": "United States",
+      "postcode": 42384,
+      "coordinates": {
+        "latitude": "-38.2400",
+        "longitude": "68.5373"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "christy.mills@example.com",
+    "login": {
+      "uuid": "8735da9e-a8ae-497d-8f1e-a3503f1d580f",
+      "username": "greenrabbit950",
+      "password": "margaret",
+      "salt": "MBmw0Eg9",
+      "md5": "db1adc42212a23900d1f609a343184fe",
+      "sha1": "577ab3c683a5fc8bc905034de05c61835501b3bd",
+      "sha256": "34a0b42c30daf0bcefd544a0bab41a90d3708ea25498e9145b24df16c274a128"
+    },
+    "dob": {
+      "date": "1969-09-01T19:28:19.456Z",
+      "age": 54
+    },
+    "registered": {
+      "date": "2019-09-06T12:06:58.750Z",
+      "age": 4
+    },
+    "phone": "(551) 907-5151",
+    "cell": "(804) 407-7065",
+    "id": {
+      "name": "SSN",
+      "value": "550-29-4568"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/95.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/95.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
+    },
+    "nat": "US"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Meghan",
+      "last": "Anderson"
+    },
+    "location": {
+      "street": {
+        "number": 9058,
+        "name": "W 6th St"
+      },
+      "city": "Clarksville",
+      "state": "Hawaii",
+      "country": "United States",
+      "postcode": 53826,
+      "coordinates": {
+        "latitude": "-14.0728",
+        "longitude": "-159.5004"
+      },
+      "timezone": {
+        "offset": "-12:00",
+        "description": "Eniwetok, Kwajalein"
+      }
+    },
+    "email": "meghan.anderson@example.com",
+    "login": {
+      "uuid": "79bde914-19a2-4bfe-82b9-265f5a1744bc",
+      "username": "bigzebra219",
+      "password": "ziggy1",
+      "salt": "usRG7zRK",
+      "md5": "be07cb808ed583500cd4c7d7ef4b5f9f",
+      "sha1": "42c054e2c284ac9e5e280738cde461d1500cd996",
+      "sha256": "266688440d3ca02721f01a28ea122a53d1d339327f6cd6b914891618ef12da05"
+    },
+    "dob": {
+      "date": "1948-03-24T16:19:58.928Z",
+      "age": 75
+    },
+    "registered": {
+      "date": "2015-09-14T20:02:53.634Z",
+      "age": 8
+    },
+    "phone": "(551) 366-3099",
+    "cell": "(651) 678-2099",
+    "id": {
+      "name": "SSN",
+      "value": "624-34-3341"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/61.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/61.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
+    },
+    "nat": "US"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Esther",
+      "last": "Woods"
+    },
+    "location": {
+      "street": {
+        "number": 7175,
+        "name": "Spring St"
+      },
+      "city": "Atlanta",
+      "state": "Nebraska",
+      "country": "United States",
+      "postcode": 41446,
+      "coordinates": {
+        "latitude": "71.1469",
+        "longitude": "-24.8172"
+      },
+      "timezone": {
+        "offset": "+5:00",
+        "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      }
+    },
+    "email": "esther.woods@example.com",
+    "login": {
+      "uuid": "caf23587-2e7c-4359-b5c1-344503789724",
+      "username": "reddog751",
+      "password": "zanzibar",
+      "salt": "IOMZOQSu",
+      "md5": "2265d0e15b7feccf61b9666ee21c2aff",
+      "sha1": "b4cd71d24d6022f1a0c3848c22fc184e705fa7b8",
+      "sha256": "c2c987c5489b6ec33c73b4c472e5d903590c2bf8f3001e8d6e8550e3125c831c"
+    },
+    "dob": {
+      "date": "1980-08-24T07:20:21.673Z",
+      "age": 43
+    },
+    "registered": {
+      "date": "2005-01-08T00:34:27.887Z",
+      "age": 19
+    },
+    "phone": "(672) 215-9229",
+    "cell": "(870) 574-4911",
+    "id": {
+      "name": "SSN",
+      "value": "265-17-6767"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/92.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
+    },
+    "nat": "US"
+  }
+]

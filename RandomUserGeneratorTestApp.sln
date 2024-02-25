@@ -3,7 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomUserGeneratorTestApp", "RandomUserGeneratorTestApp\RandomUserGeneratorTestApp.csproj", "{108E4D81-5333-4680-AF27-9873B5753050}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomUserGeneratorTestApp.Web", "RandomUserGeneratorTestApp\RandomUserGeneratorTestApp.Web.csproj", "{108E4D81-5333-4680-AF27-9873B5753050}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomUserGeneratorTestApp.BusinessLogic", "RandomUserGeneratorTestApp.BusinessLogic\RandomUserGeneratorTestApp.BusinessLogic.csproj", "{DA3DF428-479E-46CB-B17C-DBE33A49B221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomUserGeneratorTestApp.BusinessLogic.UnitTests", "RandomUserGeneratorTestApp.BusinessLogic.UnitTests\RandomUserGeneratorTestApp.BusinessLogic.UnitTests.csproj", "{6420B674-81E7-4C63-AAC3-CD8BEEB52A99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Readme", "Readme", "{6841413D-14E7-45EE-9FC3-9D7FA87CC9C3}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +24,14 @@ Global
 		{108E4D81-5333-4680-AF27-9873B5753050}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{108E4D81-5333-4680-AF27-9873B5753050}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{108E4D81-5333-4680-AF27-9873B5753050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3DF428-479E-46CB-B17C-DBE33A49B221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3DF428-479E-46CB-B17C-DBE33A49B221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3DF428-479E-46CB-B17C-DBE33A49B221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3DF428-479E-46CB-B17C-DBE33A49B221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6420B674-81E7-4C63-AAC3-CD8BEEB52A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6420B674-81E7-4C63-AAC3-CD8BEEB52A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6420B674-81E7-4C63-AAC3-CD8BEEB52A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6420B674-81E7-4C63-AAC3-CD8BEEB52A99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
